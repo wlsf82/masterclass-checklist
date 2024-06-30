@@ -1,0 +1,16 @@
+{
+  "name": "masterclass-checklist",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados para a aplicação Cypress Checklist desenvolvida pela TAT.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  }
+}
